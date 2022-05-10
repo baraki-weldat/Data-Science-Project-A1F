@@ -8,10 +8,15 @@
 
 Click the link to read the full report of the Comparative Analysis of the [EXPLAINABLE HATE SPEECH CLASSIFICATION](Data Science Project on HateSpeech Explainable Classification Model.pdf).
 
-**Sample Explanations from the SHAP:** 
+**Screenshoots of the Project at a Glance:** 
+##### 1. Experimental setup and development pipeline of the project
 ![Experimental Setup](</Sample Explanations/Experimental Setup.png>)
+
+##### 2. Saliency Plots for Selected Tweets to show individual contributions to each of the three classes
 ![Saliency Plots for Selected Tweets](</Sample Explanations/SaliencyPlotsAllTop.png>)
+##### 3. Interactive Plots of Sample Contribution of the tweet to the "Hate speech" Class 
 ![Interactive Plots for Hate speech](</Sample Explanations/SaliencyPlotsForHateSpeech.png>)
+##### 4. Visualizing of the to Top Words Impacting the "Hate Speech” Class 
 ![Visualizing of the to Top Words Impacting the "Hate Speech” Class ](</Sample Explanations/BarHateSpeech.png>)
 ### Course Literature
 - Berndtsson, M. et. al. (2007). Thesis Projects: A Guide for Students in Computer Science and Information Systems. London: Springer-Verlag London Ltd. ISBN9781848000087.
