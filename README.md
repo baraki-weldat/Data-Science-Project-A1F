@@ -6,7 +6,7 @@
 2. **Datasets:** Twitter datasets with three classes of hate, offensive and nuetral texts were collected. 
 3. **Methods and Tools:** BERT models were used for classification of the twitter tweets. To show how the class was determined was explained using [SHAP](https://shap.readthedocs.io/en/latest/index.html). SHAP is the most suited explanation technique to explain the prediction results of this particular scenario. Especially, the additive property of the Shapley values is the most important feature available in SHAP Explanation tool to find contributions of individual words based on prediction result. SHAP method is the only method to deliver full explanation. SHAP is simple to use, provide an overall view of the prediction results, and how their values are impacting the model’s predictions.
 
-Click the link to read the full report of the Comparative Analysis of the [EXPLAINABLE HATE SPEECH CLASSIFICATION](Data Science Project on HateSpeech Explainable Classification Model.pdf).
+Click the link to read the full report of the Comparative Analysis of the [EXPLAINABLE HATE SPEECH CLASSIFICATION](<Data Science Project on HateSpeech Explainable Classification Model.pdf>).
 
 **Screenshoots of the Project at a Glance:** 
 ##### 1. Experimental setup and development pipeline of the project
