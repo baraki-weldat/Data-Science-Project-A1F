@@ -18,6 +18,7 @@ Click the link to read the full report of the Comparative Analysis of the [EXPLA
 ![Interactive Plots for Hate speech](</Sample Explanations/SaliencyPlotsForHateSpeech.png>)
 ##### 4. Visualizing of the to Top Words Impacting the "Hate Speech” Class 
 ![Visualizing of the to Top Words Impacting the "Hate Speech” Class ](</Sample Explanations/BarHateSpeech.png>)
+
 ### Course Literature
 - Berndtsson, M. et. al. (2007). Thesis Projects: A Guide for Students in Computer Science and Information Systems. London: Springer-Verlag London Ltd. ISBN9781848000087.
 - Dawson, C. W. (2009). Projects in Computing and Information Systems: A Student’s Guide. Harlow:Addison Wesley Professional. ISBN 0273721313.
